@@ -1,0 +1,19 @@
+[
+  {
+    "type": "scenario",
+    "id": "Lucky_Start",
+    "name": "Lucky Start",
+    "points": -2,
+    "description": "",
+    "allowed_locs": [
+      "dojo",
+      "s_games",
+      "craft_shop",
+      "s_antique",
+      "s_music",
+      "pawn",
+      "sugar_house"
+    ],
+    "start_name": "Lucky Start",
+  }
+]
