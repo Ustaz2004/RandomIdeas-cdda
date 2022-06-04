@@ -1,19 +1,22 @@
 [
   {
     "type": "scenario",
-    "id": "Lucky_Start",
-    "name": "Lucky Start",
-    "points": -2,
-    "description": "",
+    "id": "fuck, what is this supposed to be",
+    "name": "Food Fight (work on this later)",
+    "flags": [ "SUR_START", "LONE_START" ],
+    "points": 1,
+    "description": "Heh nope, not necessary for now, just get something for burgie start",
     "allowed_locs": [
-      "dojo",
-      "s_games",
-      "craft_shop",
-      "s_antique",
-      "s_music",
-      "pawn",
-      "sugar_house"
+      "s_restaurant_fast"
     ],
+    "professions": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ]
     "start_name": "Lucky Start",
   }
 ]
