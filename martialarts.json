@@ -51,7 +51,7 @@
       }
     ],
     "techniques": [ "tec_boxing_rapid", "tec_renoboxing_haymaker", "tec_renoboxing_eyegouge", "tec_boxing_counter" ],
-    "weapons": [ "gloves_boxing_goldplated", "gloves_boxing_doubleplated", "gloves_boxing_plated", "gloves_boxing" ]
+    "weapons": [ "gloves_boxing_goldplated", "gloves_boxing_doubleplated", "gloves_boxing_plated", "gloves_boxing", "tazer"  ]
   },
   {
     "type": "martial_art",
@@ -110,7 +110,7 @@
       "tec_boxing_rapid",
       "tec_renoboxing_eyegouge"
     ],
-    "weapons": [ "gloves_boxing_goldplated", "gloves_boxing_doubleplated", "gloves_boxing_plated", "gloves_boxing" ]
+    "weapons": [ "gloves_boxing_goldplated", "gloves_boxing_doubleplated", "gloves_boxing_plated", "gloves_boxing"]
   },
   {
     "type": "martial_art",
@@ -161,6 +161,7 @@
       "pike_inferior",
       "pike_fake",
       "pitchfork",
+      "pointy_stick"
       "qiang",
       "spear_copper",
       "spear_dory",
@@ -172,6 +173,7 @@
       "spear_spike",
       "spear_rebar",
       "spear_steel",
+      "spear_stone",
       "spear_survivor",
       "spear_wood"
     ]
