@@ -1,10 +1,10 @@
 [
   {
     "type": "MOD_INFO",
-    "id": "Profe7ssions Project",
-    "name": "Professions project",
-    "authors": [ "Ustaz2004" ],
-    "maintainers": [ "Ustaz2004 sadly" ],
+    "id": "Random Idea",
+    "name": "Random Idea",
+    "authors": [ "Ustaz" ],
+    "maintainers": [ "Ustaz" ],
     "description": "Slapped shit together to make this masterpiece using plagiarism. WIP",
     "category": "misc_additions",
     "dependencies": [ "dda" ],
