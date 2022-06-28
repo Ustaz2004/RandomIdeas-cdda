@@ -29,7 +29,6 @@
     "anger_triggers": [ "PLAYER_WEAK" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
     "death_function": [ "NORMAL" ],
-    "special_attacks": [ [ "EAT_FOOD", 120 ] ],
     "flags": [ "SEES", "SMELLS", "HEARS", "WARM", "SWIMS", "ANIMAL", "PATH_AVOID_DANGER_1", "FUR", "BONES", "CATFOOD" ]
   },
   {
@@ -64,8 +63,6 @@
     "fear_triggers": [ "PLAYER_CLOSE" ],
     "death_function": [ "NORMAL" ],
     "upgrades": { "age_grow": 5, "into": "mon_rat_pig" },
-    "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 7 },
-    "special_attacks": [ [ "EAT_FOOD", 120 ] ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -105,9 +102,8 @@
     "melee_dice_sides": 1,
     "melee_cut": 1,
     "dodge": 2,
-    "reproduction": { "baby_monster": "mon_rat_piglet", "baby_count": 3, "baby_timer": 10 },
-    "baby_flags": [ "SPRING", "AUTUMN" ],
-    "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 2 },
+    "reproduction": { "baby_monster": "mon_rat_piglet", "baby_count": 2, "baby_timer": 30 },
+    "baby_flags": [ "SPRING", "AUTUMN" ],,
     "vision_day": 30,
     "vision_night": 10,
     "harvest": "mammal_large_fur",
@@ -115,7 +111,6 @@
     "anger_triggers": [ "PLAYER_WEAK", "FRIEND_ATTACKED" ],
     "fear_triggers": [ "PLAYER_CLOSE" ],
     "death_function": [ "NORMAL" ],
-    "special_attacks": [ [ "EAT_FOOD", 120 ] ],
     "flags": [
       "SEES",
       "SMELLS",
@@ -164,8 +159,6 @@
     "fear_triggers": [ "PLAYER_CLOSE" ],
     "death_function": [ "NORMAL" ],
     "upgrades": { "age_grow": 5, "into": "mon_rat_mole_lesser" },
-    "biosignature": { "biosig_item": "feces_manure", "biosig_timer": 7 },
-    "special_attacks": [ [ "EAT_FOOD", 120 ] ],
     "flags": [
       "SEES",
       "SMELLS",
