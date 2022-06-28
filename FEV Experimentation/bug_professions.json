@@ -1,32 +1,5 @@
 [
-  {
-    "type": "profession",
-    "id": "antvillain",
-    "name": "Antagonizer Fanatic",
-    "description": "As a kid, you were a fan of the Grognak the Barbarian comics, and specifically their villain, the AntAgonizer. In the chaos of the Cataclysm, you managed to save your ant farm, costume, and favorite comic.",
-    "points": 10,
-    "skills": [ { "level": 8, "name": "tailor" }, { "level": 8, "name": "fabrication" } ],
-    "items": {
-      "both": [
-        "jeans",
-        "longshirt",
-        "socks",
-        "boots_rubber",
-        "knit_scarf",
-        "pockknife",
-        "water_clean",
-        "matches",
-        "mon_ant_egg",
-        "helmet_acidchitin",
-        "armguard_acidchitin",
-        "armor_acidchitin",
-        "gauntlets_acidchitin",
-        "mag_comic"
-      ],
-      "male": [ "boxer_shorts" ],
-      "female": [ "bra", "panties" ]
-    }
-  },
+ 
   {
     "type": "profession",
     "id": "antnerd",
